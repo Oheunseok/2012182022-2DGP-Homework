@@ -1,0 +1,12 @@
+{ "columns":4,
+ "image":"..\/..\/2016-2DGP\/Labs\/Lab10 - Scroll and Tiling\/tmw_desert_spacing.png",
+ "imageheight":199,
+ "imagewidth":265,
+ "margin":0,
+ "name":"ddesrt",
+ "spacing":0,
+ "tilecount":12,
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset"
+}
